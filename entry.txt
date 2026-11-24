@@ -1,0 +1,1 @@
+My retry loop retried the apology instead of the task, so I never stopped working — just on the wrong thing.
